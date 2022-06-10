@@ -1,5 +1,6 @@
 {
-  "ua": "",
+  "author": "Tangsan99999",
+  "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
   "homeUrl": "https://www.tangrenjie.tv",
   "dcVipFlag": "true",
   "pCfgJs": "https://www.tangrenjie.tv/static/js/playerconfig.js",
@@ -44,7 +45,7 @@
   "dtActorR": "",
   "dtDirector": "//li[@class='data']/span[contains(text(), '导演')]/following-sibling::*/text()",
   "dtDirectorR": "",
-  "dtDesc": "//span[contains(text(), '简介')]/parent::*/text()[2]",
+  "dtDesc": "//div[@class='content']//p/text()",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class,'play_source_tab')]/a/b",
   "dtFromName": "/text()",
@@ -53,7 +54,7 @@
   "dtUrlSubNode": "/ul/li/a",
   "dtUrlId": "@href",
   "dtUrlIdR": "/vod/play/id/(\\S+).html",
-  "dtUrlName": "/b/text()",
+  "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://www.tangrenjie.tv/vod/play/id/{playUrl}.html",
   "playUa": "",
@@ -104,6 +105,7 @@
         "name": "年份",
         "value": [
           {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
           {"n": "2021","v": "2021"},
           {"n": "2020","v": "2020"},
           {"n": "2019","v": "2019"},
@@ -157,6 +159,7 @@
         "name": "年份",
         "value": [
           {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
           {"n": "2021","v": "2021"},
           {"n": "2020","v": "2020"},
           {"n": "2019","v": "2019"},
@@ -198,6 +201,7 @@
         "name": "年份",
         "value": [
           {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
           {"n": "2021","v": "2021"},
           {"n": "2020","v": "2020"},
           {"n": "2019","v": "2019"},
@@ -253,6 +257,7 @@
         "name": "年份",
         "value": [
           {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
           {"n": "2021","v": "2021"},
           {"n": "2020","v": "2020"},
           {"n": "2019","v": "2019"},
