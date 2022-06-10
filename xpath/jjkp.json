@@ -1,5 +1,4 @@
 {
-  "author":"Tangsan99999",
   "ua": "",
   "homeUrl": "https://www.jiujiukanpian.com",
   "cateNode": "//ul[contains(@class,'navbar-nav')]/li/a[contains(@href, '.html') and not(contains(@href, '6'))]",
@@ -52,7 +51,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://www.jiujiukanpian.com/play/{playUrl}.html",
   "playUa": "",
-  "searchUrl": "https://www.40mdd.com/search?wd={wd}",
+  "searchUrl": "https://www.jiujiukanpian.com/search?wd={wd}",
   "scVodNode": "//div[@class='movie-item']/a",
   "scVodName": "/@title",
   "scVodId": "/@href",
